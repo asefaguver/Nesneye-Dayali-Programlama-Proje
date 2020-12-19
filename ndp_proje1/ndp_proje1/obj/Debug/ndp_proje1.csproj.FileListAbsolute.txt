@@ -1,0 +1,19 @@
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.exe.config
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.exe
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.pdb
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.csprojAssemblyReference.cache
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.Form1.resources
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.Properties.Resources.resources
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.csproj.GenerateResource.cache
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.exe
+C:\Users\ahmet sefa\Desktop\örnek kodlar\c#  (ndp)\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.pdb
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.exe.config
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.exe
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\bin\Debug\ndp_proje1.pdb
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.csprojAssemblyReference.cache
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.Form1.resources
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.Properties.Resources.resources
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.csproj.GenerateResource.cache
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.exe
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.pdb
+C:\Users\ahmet sefa\Desktop\ndp_proje1\ndp_proje1\obj\Debug\ndp_proje1.csproj.CoreCompileInputs.cache
